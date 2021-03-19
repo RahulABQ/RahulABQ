@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul ,
 
-- 🌱 I’m currently learning Web developing.
+- 🌱 I’m currently learning Web development.
 
 - 📫 How to reach me : rahulkalita362@gmail.com
 
