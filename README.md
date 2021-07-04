@@ -3,7 +3,7 @@
 ![I am a python programmer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
-Skills: python& flask, AI, machine learning.
+Skills: PYTHON, AI, MACHINE LERANING.
 
 - 🔭 I’m currently working on python .
 - 🌱 I’m currently learning AI&ML ,DATA SCIENCE. 
