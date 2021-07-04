@@ -5,7 +5,7 @@
 
 Skills: python& flask, AI, machine learning.
 
-- 🔭 I’m currently working on (** python**). 
+- 🔭 I’m currently working on python .
 - 🌱 I’m currently learning AI&ML ,DATA SCIENCE. 
 - 📫 How to reach me: rahulkalita362@gmail.com. 
 
