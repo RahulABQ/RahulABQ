@@ -3,10 +3,10 @@
 ![I am a python programmer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
-Skills: PYTHON, AI, MACHINE LERANING.
+Skills: PYTHON, DJANGO & MY SQL
 
 - 🔭 I’m currently working on python .
-- 🌱 I’m currently learning AI&ML ,DATA SCIENCE. 
+- 🌱 I’m currently learning BACK END dev & DATA SCIENCE. 
 - 📫 How to reach me: rahulkalita362@gmail.com. 
 
 
