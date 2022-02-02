@@ -1,4 +1,4 @@
-### Hi there 👋, my name is RAHUL 
+### Hi there 👋, I AM RAHUL.
 #### I am a python programmer.
 ![I am a python programmer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
